@@ -4,19 +4,12 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
-    <title>Index</title>
+    <title>Mensaje</title>
 </head>
 <body>
-    <h1>Opciones</h1>
-    <br />   
-    <a href="/Video/Index">Agregar Videos</a>
-    <br />
-    <a href="/Video/Eliminar">Eliminar</a>
-    <br />
-    <a href="/Video/Modificar">Modificar</a>
-    <br />
-    <a href="/Video/Ver">Ver Videos</a>
+    <h1>La sentencia ha sido realizada exitosamente</h 1>
 
+    <a href="/Home/Index"> Menu</a>
 
 </body>
 </html>
